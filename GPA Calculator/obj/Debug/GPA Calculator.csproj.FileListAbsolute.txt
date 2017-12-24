@@ -1,0 +1,176 @@
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.dll
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.pdb
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\GPA_Calculator.GPA_Calculator.apk
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\GPA_Calculator.GPA_Calculator-Signed.apk
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.dll
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.pdb
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\android\bin\GPA_Calculator.GPA_Calculator.apk
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\res\layout\main.xml
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\res\values\strings.xml
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\icon.png
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\uj.png
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\R.cs.flag
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\uploadflags.txt
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\res\layout\currentgpa.xml
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\res\layout\help.xml
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\gpa.jpg
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLite-net.dll
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLitePCLRaw.batteries_green.dll
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLitePCLRaw.core.dll
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLite-net.xml
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLite-net.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\res\layout\cumulativegpa.xml
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\logo.png
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\res\layout\viewgpas.xml
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\gpacalc.png
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\gpashow.png
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\help.png
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\Java.Interop.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\Mono.Android.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\mscorlib.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\System.ComponentModel.Composition.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\System.Core.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\System.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\System.IO.Compression.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\System.Net.Http.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\System.Runtime.Serialization.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\System.ServiceModel.Internals.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\System.Xml.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\bin\Debug\System.Xml.Linq.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\GPA Calculator.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\Java.Interop.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\Mono.Android.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\mscorlib.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\SQLite-net.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.Core.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.Net.Http.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.Xml.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csprojResolveAssemblyReference.cache
+E:\App\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.dll
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.pdb
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\GPA_Calculator.GPA_Calculator.apk
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\GPA_Calculator.GPA_Calculator-Signed.apk
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLite-net.dll
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLitePCLRaw.batteries_green.dll
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLitePCLRaw.core.dll
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLite-net.xml
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLite-net.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csprojResolveAssemblyReference.cache
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.dll
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.pdb
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\android\bin\GPA_Calculator.GPA_Calculator.apk
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\res\layout\currentgpa.xml
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\res\layout\help.xml
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\res\layout\cumulativegpa.xml
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\res\layout\viewgpas.xml
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\res\layout\main.xml
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\res\values\strings.xml
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\icon.png
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\uj.png
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\gpa.jpg
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\logo.png
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\gpacalc.png
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\gpashow.png
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\help.png
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\R.cs.flag
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\uploadflags.txt
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\Java.Interop.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\Mono.Android.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\mscorlib.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\System.ComponentModel.Composition.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\System.Core.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\System.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\System.IO.Compression.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\System.Net.Http.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\System.Runtime.Serialization.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\System.ServiceModel.Internals.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\System.Xml.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\bin\Debug\System.Xml.Linq.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\GPA Calculator.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\Java.Interop.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\Mono.Android.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\mscorlib.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\SQLite-net.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.Core.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.Net.Http.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.Xml.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+F:\App\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.dll
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.pdb
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\GPA_Calculator.GPA_Calculator.apk
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\GPA_Calculator.GPA_Calculator-Signed.apk
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLite-net.dll
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLitePCLRaw.batteries_green.dll
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLitePCLRaw.core.dll
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLite-net.xml
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\SQLite-net.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csprojResolveAssemblyReference.cache
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.dll
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.pdb
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\android\bin\GPA_Calculator.GPA_Calculator.apk
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\res\layout\currentgpa.xml
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\res\layout\help.xml
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\res\layout\cumulativegpa.xml
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\res\layout\viewgpas.xml
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\res\layout\main.xml
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\res\values\strings.xml
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\icon.png
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\uj.png
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\gpa.jpg
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\logo.png
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\gpacalc.png
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\gpashow.png
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\res\drawable\help.png
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\R.cs.flag
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\uploadflags.txt
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\Java.Interop.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\Mono.Android.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\mscorlib.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\System.Core.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\System.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\System.IO.Compression.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\System.Net.Http.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\System.Xml.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\bin\Debug\System.Xml.Linq.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\GPA Calculator.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\SQLite-net.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.Core.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\App\GPA Calculator\GPA Calculator\obj\Debug\android\assets\System.Xml.Linq.dll.mdb

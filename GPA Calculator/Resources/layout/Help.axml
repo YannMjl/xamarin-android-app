@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="#ffe6cc">
+    <TextView
+        android:text="GPA and Grading System"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="40.5dp"
+        android:id="@+id/textView"
+        android:textColor="#000000"
+        android:gravity="center"
+        android:typeface="serif"
+        android:textStyle="bold" />
+    <ImageView
+        android:src="@drawable/gpa"
+        android:layout_width="356.0dp"
+        android:layout_height="354.5dp"
+        android:id="@+id/imageView1"
+        android:layout_marginTop="0.0dp"
+        android:layout_marginBottom="0.0dp" />
+    <TextView
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/help_textView"
+        android:textColor="#008040"
+        android:textStyle="italic"
+        android:typeface="serif"
+        android:padding="5dp" />
+</LinearLayout>

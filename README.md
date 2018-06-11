@@ -5,7 +5,7 @@ calculate the overall GPA as the semester progress.
 
 ## Author
 
-* **[Yann Mulonda](https://github.com/YannMjl)** - *Initial work* - [Tim Rustige]
+* **[Yann Mulonda](https://github.com/YannMjl)**
 
 ## License
 

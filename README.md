@@ -1,5 +1,5 @@
 # xamarin-android-app
-final project for App dev class, senior year of college. 
+This is final project for App dev class, senior year of college. 
 GPA calculator provide the user the ability to calculate mutliple GPA for several semester and 
 calculate the overall GPA as the semester progress. 
 
